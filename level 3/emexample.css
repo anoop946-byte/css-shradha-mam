@@ -1,0 +1,9 @@
+#parent{
+    font-size: 20px;
+    border:2px solid black;
+}
+#child{
+    font-size: 2em;
+    width: 5em;
+    border:2px solid red;
+}

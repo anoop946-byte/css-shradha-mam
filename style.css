@@ -1,19 +1,9 @@
-h1{
-    color:red;
-}
-button{
-    color:brown
-}
-body{
-    background-color: black;
-    /* background-color: #ffff00; */
-}
 #one{
-    color:pink;
+    font-size: 2px;
 }
-#two2{
-    color:white;
+#two{
+    font-size: 12px;
 }
-.rahul{
-    font-style: italic;
+#three{
+    font-size: 24px;
 }

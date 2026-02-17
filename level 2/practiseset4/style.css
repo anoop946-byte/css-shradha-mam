@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+}
+#navbar{
+    height: 60px;
+    background-color: black;
+    color:white;
+}
+a{
+    margin-right:70px;
+}
+.content{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border: 2px solid black;
+}
+#ak{
+    height: 690px;
+}
+#f{    height: 60px;
+    background-color: black;
+    color:white;
+}
